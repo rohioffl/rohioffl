@@ -124,13 +124,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=rohioffl&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=0d1117" width="60%" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohioffl&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" width="100%" />
-
-</div>
 
 ---
 
