@@ -124,6 +124,13 @@
 
 <img src="https://streak-stats.demolab.com/?user=rohioffl&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=0d1117" width="60%" />
 
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohioffl&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" width="100%" />
+
+</div>
 
 ---
 
@@ -139,17 +146,15 @@
 
 ## Experience Highlights
 
-```
-2 yrs @ Ankercloud
-├── 10+ client environments owned end-to-end (AWS + GCP)
-├── Built backup automation platform (Go + Cloud Run)
-│   └── Significantly reduced manual recovery effort
-├── Automated security audits across 20+ GCP projects
-│   └── Severity reporting · Slack alerting · AI remediation workflows
-├── Developed AIREX — AI incident response platform
-│   └── pgvector RAG · LiteLLM routing · Langfuse observability · prompt-injection safeguards
-└── Ankercloud Solve Sprint Hackathon — 2nd Runner Up (Lens project)
-```
+**🏢 Ankercloud — 2 Years**
+
+| | |
+|---|---|
+| ☁️ | Owned **10+ client environments** end-to-end across AWS & GCP — design, migrations, K8s, CI/CD, security, monitoring |
+| 🔄 | Built **backup automation platform** (Go + Cloud Run) — significantly reduced manual recovery effort |
+| 🔐 | Automated **security audits across 20+ GCP projects** — severity reporting, Slack alerting, AI-assisted remediation |
+| 🤖 | Developed **[AIREX](https://airex.ankercloud.com)** — AI incident response platform with pgvector RAG, LiteLLM routing, Langfuse observability & prompt-injection safeguards |
+| 🥉 | **Ankercloud Solve Sprint Hackathon** — 2nd Runner Up (Team Cloud Stars · Lens project) |
 
 ---
 
