@@ -17,16 +17,11 @@
 
 ## About Me
 
-- 🏢 **Role:** Associate Automation Cloud Engineer @ [Ankercloud](https://ankercloud.com)
-- ☁️ **Clouds:** AWS · GCP — owned **10+ client environments** end-to-end
-- 🤖 **Building:** [AIREX](https://airex.ankercloud.com) — AI-powered incident response platform
 - 🔧 **Focus:** AIOps · Platform Engineering · AI Infrastructure
 - 🏆 **Cert:** Google Cloud Associate Cloud Engineer (Dec 2024)
-- 📍 **Location:** Coimbatore, India
 - 💼 **Open to:** DevOps · Platform Engineering · AIOps · Cloud Engineering
 - ⚡ **Superpower:** Building systems that investigate, decide, and self-heal
 
-> Over 2 years at Ankercloud I've independently owned and operated **10+ client environments** across AWS and GCP — from infra design and migrations to Kubernetes deployments, CI/CD automation, security hardening, monitoring, and client handovers.
 
 ---
 
@@ -123,14 +118,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=rohioffl&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=0d1117" width="60%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohioffl&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" width="100%" />
-
-</div>
 
 ---
 
