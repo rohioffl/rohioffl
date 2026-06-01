@@ -17,21 +17,16 @@
 
 ## About Me
 
-```python
-rohit = {
-    "role":     "Associate Automation Cloud Engineer @ Ankercloud",
-    "focus":    ["AIOps", "Platform Engineering", "AI Infra"],
-    "clouds":   ["AWS", "GCP"],
-    "builds":   "systems that investigate, decide, and self-heal",
-    "cert":     "Google Cloud ACE (Dec 2024)",
-    "location": "Coimbatore, India",
-    "open_to":  ["DevOps", "Platform Eng", "AIOps", "Cloud Eng"],
-}
-```
+- 🏢 **Role:** Associate Automation Cloud Engineer @ [Ankercloud](https://ankercloud.com)
+- ☁️ **Clouds:** AWS · GCP — owned **10+ client environments** end-to-end
+- 🤖 **Building:** [AIREX](https://airex.ankercloud.com) — AI-powered incident response platform
+- 🔧 **Focus:** AIOps · Platform Engineering · AI Infrastructure
+- 🏆 **Cert:** Google Cloud Associate Cloud Engineer (Dec 2024)
+- 📍 **Location:** Coimbatore, India
+- 💼 **Open to:** DevOps · Platform Engineering · AIOps · Cloud Engineering
+- ⚡ **Superpower:** Building systems that investigate, decide, and self-heal
 
-Over **2 years** at Ankercloud I've owned **10+ client environments** end-to-end — infra design, migrations, Kubernetes deployments, CI/CD, security hardening, monitoring, and client handovers.
-
-Currently building **[AIREX](https://airex.ankercloud.com)** — an AI-powered incident response platform that ingests alerts, investigates affected systems, and executes deterministic remediations with human-in-the-loop approval gates.
+> Over 2 years at Ankercloud I've independently owned and operated **10+ client environments** across AWS and GCP — from infra design and migrations to Kubernetes deployments, CI/CD automation, security hardening, monitoring, and client handovers.
 
 ---
 
