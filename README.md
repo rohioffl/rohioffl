@@ -20,12 +20,12 @@
 ```python
 rohit = {
     "role":     "Associate Automation Cloud Engineer @ Ankercloud",
-    "focus":    ["AIOps", "Platform Engineering", "AI Infrastructure"],
+    "focus":    ["AIOps", "Platform Engineering", "AI Infra"],
     "clouds":   ["AWS", "GCP"],
-    "builds":   "systems that investigate, decide, and recover themselves",
+    "builds":   "systems that investigate, decide, and self-heal",
     "cert":     "Google Cloud ACE (Dec 2024)",
     "location": "Coimbatore, India",
-    "open_to":  ["DevOps", "Platform Engineering", "AI Ops", "Cloud Engineering"],
+    "open_to":  ["DevOps", "Platform Eng", "AIOps", "Cloud Eng"],
 }
 ```
 
@@ -113,14 +113,21 @@ Currently building **[AIREX](https://airex.ankercloud.com)** — an AI-powered i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohioffl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohioffl&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohioffl&theme=tokyonight" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohioffl&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=0d1117" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohioffl&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohioffl&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohioffl&theme=tokyonight&utcOffset=5.5" height="160" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=rohioffl&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=0d1117" width="60%" />
 
 </div>
 
@@ -139,7 +146,6 @@ Currently building **[AIREX](https://airex.ankercloud.com)** — an AI-powered i
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohioffl&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
-
 
 ---
 
